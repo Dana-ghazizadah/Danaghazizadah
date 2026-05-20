@@ -25,21 +25,4 @@
 |---|------|------|
 | 1 | `In-Your-Light-(Arash-&-Helena-Style-Vibes)-｜-(Official-Music).mp3` | [Download](https://github.com/Dana-ghazizadah/YoutubeDownloader/raw/main/videos/In-Your-Light-%28Arash-%26-Helena-Style-Vibes%29-%EF%BD%9C-%28Official-Music%29/In-Your-Light-%28Arash-%26-Helena-Style-Vibes%29-%EF%BD%9C-%28Official-Music%29.mp3) |
 
----
-
-Ready to use — no extraction needed!
-
-
----
-
-## 🔤 Subtitles
-
-| # | File | Link |
-|---|------|------|
-| 1 | `subtitle.zip` | [Download](https://github.com/Dana-ghazizadah/YoutubeDownloader/raw/main/videos/In-Your-Light-%28Arash-%26-Helena-Style-Vibes%29-%EF%BD%9C-%28Official-Music%29/subtitle.zip) |
-
-> Contains all available subtitle languages. Extract to get `.vtt` files.
-
----
-
 *This tool created by [TELEGRAM](t.me/amirrej)*
