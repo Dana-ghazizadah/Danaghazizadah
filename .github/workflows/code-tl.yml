@@ -24,6 +24,7 @@ on:
           - 1080
           - 720
           - 480
+          - 360
           - audio
       password:
         description: '🔒 Password for zip files (optional)'
@@ -1528,5 +1529,5 @@ jobs:
           echo ""
           echo "=========================================="
           echo "All files pushed successfully!"
-          echo "made in AMIR (t.me/amirrej)"
+          echo "made in Dana "
           echo "=========================================="
